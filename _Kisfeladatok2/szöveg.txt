@@ -1,0 +1,1 @@
+﻿Adott egy szöveg a „szoveg.txt” állományban. Olvassa be, és állapítsa meg, hány szót tartalmaz, ha feltételezzük, hogy a szöveg elején, ill. végén található betűsorokat leszámítva minden szóközzel határolt karaktersorozat egy-egy szó! A kezdő szó előtt és a befejező szó mögött értelemszerűen nem feltétlenül van szóköz.
